@@ -1,0 +1,4 @@
+# Ignore dataset folders
+Human Eye Disease/train/
+Human Eye Disease/test/
+Human Eye Disease/val/
