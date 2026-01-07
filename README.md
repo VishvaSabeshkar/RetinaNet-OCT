@@ -83,10 +83,6 @@ The model shows strong generalization across all four retinal disease classes.
 git clone https://github.com/your-username/oct-retinal-analysis.git
 cd oct-retinal-analysis
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
 # Install dependencies
 pip install -r requirements.txt
 
