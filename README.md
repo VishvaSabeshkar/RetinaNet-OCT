@@ -83,5 +83,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
+
+Demo - https://github.com/user-attachments/assets/6de93839-d82e-4ff8-9b14-c484cdbbf488
+
 ## Summary
 This project demonstrates how deep learning can support retinal OCT interpretation by improving consistency and efficiency in medical image analysis. By combining a high-quality dataset, a pretrained CNN architecture, and an interactive web interface, the platform serves as a strong example of applied AI in healthcare research and education.
